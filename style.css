@@ -6,7 +6,12 @@
 }
 
 body {
-  background-color: blue;
+  background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3D%2522weather%2Bbackground%2522&psig=AOvVaw0aj_g7VrJRJdYm8DdNub1E&ust=1732123126341000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiUt9Pz6IkDFQAAAAAdAAAAABAE); 
+  background-size: cover; 
+  background-repeat: no-repeat; 
+  background-attachment: fixed; 
+  background-position: center; 
+  margin: 0; 
 }
 
 .card {
